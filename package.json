@@ -1,0 +1,28 @@
+{
+  "name": "weatheroy",
+  "version": "1.0.0",
+  "description": "this is a weather application.",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/hjrinfinity/weatheroy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/hjrinfinity/weatheroy/issues"
+  },
+  "homepage": "https://gitlab.com/hjrinfinity/weatheroy#README"
+}
